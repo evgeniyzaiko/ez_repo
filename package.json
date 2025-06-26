@@ -1,0 +1,22 @@
+{
+  "name": "ez_repo",
+  "version": "1.0.0",
+  "description": "First Repo",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/evgeniyzaiko/ez_repo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/evgeniyzaiko/ez_repo/issues"
+  },
+  "homepage": "https://github.com/evgeniyzaiko/ez_repo#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.53.1",
+    "@types/node": "^24.0.4"
+  }
+}
