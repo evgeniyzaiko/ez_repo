@@ -1,2 +1,2 @@
-const main = 5
+const main = 7
 console.log(main)
