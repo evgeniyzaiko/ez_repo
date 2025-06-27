@@ -1,2 +1,2 @@
-const main = 7
+const main = 45
 console.log(main)
